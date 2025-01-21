@@ -42,9 +42,13 @@ bin/
 ### Mac OS ###
 .DS_Store
 
+#### wildmental - local ignore list ####
+
+#### prj specific IntelliJ ignore ####
 algorithm_study_team1_2025.iml
 build.gradle
 gradlew
 gradlew.bat
 settings.gradle
 gradle/*
+/src/main/java/*.zip
